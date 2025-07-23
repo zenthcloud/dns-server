@@ -1,6 +1,6 @@
-# Zenth DNS Server
+# Zenth Cloud DNS Server
 
-**Zenth DNS Server** is a high-performance, open-source domain name system (DNS) server built for the Zenth Cloud ecosystem by Sky Genesis Enterprise. It provides authoritative DNS services, dynamic updates, and full integration with Zenth network and identity components.
+**Zenth Cloud DNS Server** is a high-performance, open-source domain name system (DNS) server built for the Zenth Cloud ecosystem by Sky Genesis Enterprise. It provides authoritative DNS services, dynamic updates, and full integration with Zenth network and identity components.
 
 ## 🌐 Features
 
