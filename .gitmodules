@@ -1,0 +1,6 @@
+[submodule "builder"]
+	path = builder
+	url = https://github.com/zenthcloud/dns-server-build.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/zenthcloud/dns-server-admin.git
